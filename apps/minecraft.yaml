@@ -11,7 +11,7 @@ spec:
     path: charts/minecraft
     helm:
       valueFiles:
-        - ../../values/minecraft-values.yaml
+        - values.yaml
   destination:
     server: https://kubernetes.default.svc
     namespace: default

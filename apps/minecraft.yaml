@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/youruser/argogit.git
+    repoURL: https://github.com/MisterHarrow/argogit.git
     targetRevision: HEAD
     path: charts/minecraft
     helm:

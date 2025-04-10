@@ -1,0 +1,9 @@
+minecraftServer:
+  eula: "TRUE"
+  version: "LATEST"
+  type: "VANILLA"
+  motd: "Welcome to Minecraft on Kubernetes!"
+  memory: 1024M
+  gameMode: survival
+  pvp: true
+  serviceType: LoadBalancer

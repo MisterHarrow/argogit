@@ -1,5 +1,6 @@
 minecraftServer:
   eula: "TRUE"
+  enabled: true
   version: "LATEST"
   type: "VANILLA"
   motd: "Welcome to Minecraft on Kubernetes!"
